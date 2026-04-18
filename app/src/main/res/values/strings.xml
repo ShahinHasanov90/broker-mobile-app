@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Broker</string>
+    <string name="declarations_title">Declarations</string>
+    <string name="approval_title">Approval</string>
+    <string name="declaration_detail_title">Declaration</string>
+    <string name="status_draft">Draft</string>
+    <string name="status_submitted">Submitted</string>
+    <string name="status_accepted">Accepted</string>
+    <string name="status_rejected">Rejected</string>
+    <string name="status_released">Released</string>
+    <string name="action_approve">Approve</string>
+    <string name="action_reject">Reject</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="approval_note_hint">Approval note (optional)</string>
+    <string name="rejection_reason_hint">Rejection reason</string>
+    <string name="rejection_reason_required">Rejection reason is required.</string>
+    <string name="empty_list">No declarations in this view.</string>
+    <string name="loading">Loading...</string>
+    <string name="filter_all">All</string>
+</resources>

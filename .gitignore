@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android generated
+/app/build/
+/build/
+**/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Kotlin
+.kotlin/
+kotlin-js-store/
+
+# Java
+*.jar
+hs_err_pid*
+
+# Logs
+*.log
+
+# Secrets and signing
+keystore.properties
+*.jks
+*.keystore
+google-services.json
